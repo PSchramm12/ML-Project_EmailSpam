@@ -69,4 +69,4 @@ Source used in this project: [MWiechmann/enron_spam_data](https://github.com/MWi
 
 ## Authors
 
-Maintained by the project team in this repository.
+Maintained by the project team in this repository - Pascal Schramm & Niklas Stoeck.
